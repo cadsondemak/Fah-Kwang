@@ -1,1 +1,3 @@
-# fah-kwang
+# Fah Kwang
+Fah Kwang
+The revival of an old fashion display from hot metal type era. Square silhouette is quite unusual for today’s Thai loop standard but can be quite refreshing when using as an oversize display. Fah Kwang kept the idea of noticeable contrast between thick and thin while exploring the taboo of wider proportion in Thai. A throw back with a twist to a short period of newspaper headline style before the current fat face news headline became common in all Thai newspapers. This makes Fah Kwang an interesting choice for news and document headline and sub headline. Designed by Kitti Sirirattanabunchai and Niwat Phattharowat
