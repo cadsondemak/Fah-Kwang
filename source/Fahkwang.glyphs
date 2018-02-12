@@ -9,7 +9,11 @@ a,
 /lira,
 /euro,
 /Schwa,
-L
+L,
+B,
+n,
+/Omega,
+/odotbelow
 );
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
@@ -189,7 +193,7 @@ showMeasurement = 1;
 },
 {
 angle = 180;
-position = "{626, 354}";
+position = "{615, 245}";
 showMeasurement = 1;
 },
 {
@@ -204,7 +208,7 @@ position = "{486, 490}";
 showMeasurement = 1;
 },
 {
-position = "{677, 519}";
+position = "{655, 376}";
 showMeasurement = 1;
 },
 {
@@ -14350,7 +14354,7 @@ unicode = 00F6;
 {
 color = 4;
 glyphname = odotbelow;
-lastChange = "2018-02-06 15:27:20 +0000";
+lastChange = "2018-02-12 18:15:49 +0000";
 layers = (
 {
 components = (
@@ -16621,7 +16625,7 @@ unicode = 0394;
 },
 {
 glyphname = Omega;
-lastChange = "2017-12-18 12:40:44 +0000";
+lastChange = "2018-02-12 18:17:22 +0000";
 layers = (
 {
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -16629,42 +16633,42 @@ paths = (
 {
 closed = 1;
 nodes = (
-"863 64 LINE",
-"614 64 LINE",
-"730 133 OFFCURVE",
-"825 232 OFFCURVE",
-"825 376 CURVE SMOOTH",
-"825 580 OFFCURVE",
-"647 691 OFFCURVE",
-"460 691 CURVE SMOOTH",
-"273 691 OFFCURVE",
-"94 580 OFFCURVE",
-"94 376 CURVE SMOOTH",
-"94 232 OFFCURVE",
-"192 133 OFFCURVE",
-"306 64 CURVE",
-"57 64 LINE",
-"72 0 LINE",
-"364 0 LINE",
-"373 16 LINE",
-"271 139 OFFCURVE",
-"205 211 OFFCURVE",
-"205 382 CURVE SMOOTH",
-"205 544 OFFCURVE",
-"292 656 OFFCURVE",
-"460 656 CURVE SMOOTH",
-"629 656 OFFCURVE",
-"715 544 OFFCURVE",
-"715 382 CURVE SMOOTH",
-"715 219 OFFCURVE",
-"650 135 OFFCURVE",
-"548 16 CURVE",
-"557 0 LINE",
-"848 0 LINE"
+"342 0 LINE",
+"351 16 LINE",
+"235 129 OFFCURVE",
+"158 235 OFFCURVE",
+"158 382 CURVE SMOOTH",
+"158 546 OFFCURVE",
+"270 656 OFFCURVE",
+"438 656 CURVE SMOOTH",
+"606 656 OFFCURVE",
+"718 546 OFFCURVE",
+"718 382 CURVE SMOOTH",
+"718 235 OFFCURVE",
+"641 129 OFFCURVE",
+"525 16 CURVE",
+"534 0 LINE",
+"806 0 LINE",
+"816 44 LINE",
+"592 44 LINE",
+"701 110 OFFCURVE",
+"773 243 OFFCURVE",
+"773 376 CURVE SMOOTH",
+"773 565 OFFCURVE",
+"639 691 OFFCURVE",
+"438 691 CURVE SMOOTH",
+"237 691 OFFCURVE",
+"103 565 OFFCURVE",
+"103 376 CURVE SMOOTH",
+"103 243 OFFCURVE",
+"175 110 OFFCURVE",
+"284 44 CURVE",
+"60 44 LINE",
+"70 0 LINE"
 );
 }
 );
-width = 920;
+width = 876;
 }
 );
 note = Omega;
