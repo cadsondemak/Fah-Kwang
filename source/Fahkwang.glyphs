@@ -1,7 +1,8 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/koKai-thai/saraIi-thai/maiEk-thai/koKai-thai/saraIi-thai/maiTho-thai/koKai-thai/saraIi-thai/maiTri-thai/koKai-thai/saraIi-thai/maiChattawa-thai/koKai-thai/saraI-thai/thanthakhat-thai/koKai-thai/thanthakhat-thai/koKai-thai/maiEk-thai/koKai-thai/maiTho-thai/koKai-thai/maiTri-thai/koKai-thai/maiChattawa-thai/poPla-thai/saraI-thai/poPla-thai/saraIi-thai/poPla-thai/saraUe-thai/poPla-thai/saraUee-thai/poPla-thai/maiEk-thai/poPla-thai/maiTho-thai/poPla-thai/maiTri-thai/poPla-thai/maiChattawa-thai"
+"/koKai-thai/saraIi-thai/maiEk-thai/koKai-thai/saraIi-thai/maiTho-thai/koKai-thai/saraIi-thai/maiTri-thai/koKai-thai/saraIi-thai/maiChattawa-thai/koKai-thai/saraI-thai/thanthakhat-thai/koKai-thai/thanthakhat-thai/koKai-thai/maiEk-thai/koKai-thai/maiTho-thai/koKai-thai/maiTri-thai/koKai-thai/maiChattawa-thai/poPla-thai/saraI-thai/poPla-thai/saraIi-thai/poPla-thai/saraUe-thai/poPla-thai/saraUee-thai/poPla-thai/maiEk-thai/poPla-thai/maiTho-thai/poPla-thai/maiTri-thai/poPla-thai/maiChattawa-thai",
+/aringacute
 );
 copyright = "Copyright © 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
@@ -12113,7 +12114,7 @@ unicode = 00E5;
 {
 color = 4;
 glyphname = aringacute;
-lastChange = "2018-02-06 14:19:30 +0000";
+lastChange = "2018-03-07 17:16:30 +0000";
 layers = (
 {
 components = (
@@ -13679,7 +13680,7 @@ unicode = 013A;
 {
 color = 4;
 glyphname = lcaron;
-lastChange = "2018-02-06 15:22:32 +0000";
+lastChange = "2018-03-07 15:20:03 +0000";
 layers = (
 {
 components = (
@@ -13687,12 +13688,13 @@ components = (
 name = l;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, 127, 193}";
+alignment = -1;
+name = apostrophemod;
+transform = "{1, 0, 0, 1, 11, 0}";
 }
 );
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
-width = 254;
+width = 324;
 }
 );
 note = lcaron;
@@ -14220,7 +14222,7 @@ unicode = 00F4;
 {
 color = 4;
 glyphname = ocircumflexacute;
-lastChange = "2018-02-06 15:27:20 +0000";
+lastChange = "2018-03-07 17:15:39 +0000";
 layers = (
 {
 components = (
@@ -14228,12 +14230,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
+name = circumflex_acute;
 transform = "{1, 0, 0, 1, 318, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 68, 220}";
 }
 );
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -14276,7 +14274,7 @@ unicode = 1ED9;
 {
 color = 4;
 glyphname = ocircumflexgrave;
-lastChange = "2018-02-06 15:27:20 +0000";
+lastChange = "2018-03-07 17:15:49 +0000";
 layers = (
 {
 components = (
@@ -14284,12 +14282,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
+name = circumflex_grave;
 transform = "{1, 0, 0, 1, 318, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 68, 220}";
 }
 );
 guideLines = (
@@ -14309,7 +14303,7 @@ unicode = 1ED3;
 {
 color = 4;
 glyphname = ocircumflexhookabove;
-lastChange = "2018-02-06 15:27:20 +0000";
+lastChange = "2018-03-07 17:16:02 +0000";
 layers = (
 {
 components = (
@@ -14317,12 +14311,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
+name = circumflex_hookabove;
 transform = "{1, 0, 0, 1, 318, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 68, 220}";
 }
 );
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -34286,7 +34276,7 @@ unicode = 02DA;
 {
 color = 4;
 glyphname = ring_acute;
-lastChange = "2018-02-06 15:49:30 +0000";
+lastChange = "2018-03-07 17:16:30 +0000";
 layers = (
 {
 anchors = (
