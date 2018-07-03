@@ -1,16 +1,5 @@
 {
 .appVersion = "1141";
-DisplayStrings = (
-"/maitaikhu-thai",
-"/foFan-thai",
-"/nikhahit-thai.narrow",
-"/saraIi-thai.narrow",
-"/thanthakhat-thai",
-"/nikhahit_maiChattawa-thai.narrow",
-"/saraIi-thai.narrow",
-"/nikhahit_maiEk-thai.narrow",
-"/nikhahit-thai.narrow"
-);
 copyright = "Copyright (c) 2018 by Cadson Demak Co.,Ltd.. All rights reserved.";
 customParameters = (
 {
