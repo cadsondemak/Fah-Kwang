@@ -385,7 +385,7 @@ xHeight = 490;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2018-07-24 13:53:51 +0000";
+lastChange = "2018-07-26 16:55:50 +0000";
 layers = (
 {
 anchors = (
@@ -395,7 +395,7 @@ position = "{369, 0}";
 },
 {
 name = ogonek;
-position = "{666, 10}";
+position = "{680, 10}";
 },
 {
 name = top;
@@ -596,11 +596,11 @@ width = 779;
 anchors = (
 {
 name = bottom;
-position = "{326, 0}";
+position = "{313, 0}";
 },
 {
 name = ogonek;
-position = "{625, 10}";
+position = "{639, 10}";
 },
 {
 name = top;
@@ -2362,7 +2362,7 @@ unicode = 0100;
 },
 {
 glyphname = Aogonek;
-lastChange = "2018-07-24 13:53:51 +0000";
+lastChange = "2018-07-26 16:56:42 +0000";
 layers = (
 {
 components = (
@@ -2371,7 +2371,7 @@ name = A;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 666, 10}";
+transform = "{1, 0, 0, 1, 680, 10}";
 }
 );
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
@@ -50339,7 +50339,7 @@ unicode = 1E25;
 },
 {
 glyphname = i;
-lastChange = "2018-07-24 13:53:51 +0000";
+lastChange = "2018-07-26 16:56:41 +0000";
 layers = (
 {
 anchors = (
@@ -50349,7 +50349,7 @@ position = "{123, 0}";
 },
 {
 name = ogonek;
-position = "{121, 7}";
+position = "{119, 7}";
 }
 );
 layerId = "0B1DFD06-3317-40CA-B510-4969A0718C16";
