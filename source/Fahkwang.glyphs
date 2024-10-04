@@ -1,11 +1,5 @@
 {
 .appVersion = "3260";
-DisplayStrings = (
-"/eng",
-"/Schwa",
-"/oe",
-"/saraAm-thai"
-);
 copyright = "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)";
 customParameters = (
 {
